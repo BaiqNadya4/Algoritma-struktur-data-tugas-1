@@ -1,0 +1,11 @@
+Inisiasi
+1. Tahun masuk mahasiswa (misalnya 2022)
+2. Tahun sekarang (2024)
+3. Semester sekarang (misalnya semester sekarang, 1 untuk semester ganjil dan 2 untuk semester genap)
+Proses
+4. Hitung selisih tahun antara tahun sekarang dan tahun masuk;
+Selisih tahun= tahun sekarang-tahun masuk
+5. Hitung semester total yang telah dilalui:
+semester total = selisih tahun x 2 + semester sekarang
+Output
+6. Semester total adalah semester yang sedang dijalani mahasiswa tersebut
